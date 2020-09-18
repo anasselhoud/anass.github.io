@@ -41,7 +41,7 @@
 - name: Team leader at A&M EcoShell
   url: https://www.shell.fr/energie-innovation/shell-eco-marathon.html
   code: https://www.shell.fr/energie-innovation/shell-eco-marathon.html
-  description: Team created to participate in the competition (Shell Eco-marathon): Design of a car capable of covering the longest distance with one liter of fuel + Energy optimization and resolution of the problem of high consumption of some elements.
+  description: Team created to participate in the competition (Shell Eco-marathon). Design of a car capable of covering the longest distance with one liter of fuel and Energy optimization and resolution of the problem of high consumption of some elements.
   used:
     - thing: Optimization
     - thing: Renewbale Energies
