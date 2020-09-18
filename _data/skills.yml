@@ -1,28 +1,33 @@
 languages:
-  - item: Java
+  - item: Algorithmics
   - item: Python
+  - item: Matlab
   - item: HTML/CSS
-  - item: JavaScript
+  - item: C
 
+
+Knowledge:
+  - item: Statistics
+  - item: Machine Learning
+  - item: Deep Learning
+  - item: Predictive Analysis
+  - item: Data Visualization
+  - item: Database (MySQL, Oracle)
+  
 tools:
   - item: Git & Github
-  - item: Android Studio
-  - item: Revit
-  - item: Dynamo
-  - item: Rhinoceros
-  - item: Grasshopper
+  - item: Visual Studio Code
+  - item: Jupyter Notebook
+  - item: Google Colab
+  - item: Microsoft Azure
+  - item: Google Cloud Platform
 
-design:
-  - item: Photoshop
-  - item: Illustrator
-  - item: InDesign
-  - item: 3D Printing
-  - item: Lasercutting
-
-learning:
-  - item: OpenGL/WebGL
-  - item: Unit testing
-  - item: Agile methodology
-  - item: Software life cycle
-  - item: Project management
+Frameworks:
+  - item: Scikit-learn
+  - item: Pandas/numpy
+  - item: Seaborn/matplot
+  - item: Scipy
+  - item: Tensorflow (Keras)
+  - item: Pytorch
+  
   
