@@ -2,21 +2,21 @@
 name: Bennett Oh
 title: Bennett Oh | Aspiring Software Developer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bennettoh.github.io/
-baseurl: https://bennettoh.github.io/
+url: https://aelhoud.me
+baseurl: https://aelhoud.me
 email: bennettoh.dev@gmail.com
 cover: https://bennettoh.github.io/img/og.png
 logo: https://bennettoh.github.io/img/emojis/technologist.png
 resume: https://bennettoh.github.io/img/Resume 2020 Bennett Oh.pdf
 social:
   - title: email
-    url: mailto:bennettoh.dev@gmail.com
+    url: mailto:anass.elhoud@gmail.com
   - title: instagram
-    url: https://instagram.com/bennett.oh
+    url: https://instagram.com/anasselhoud
   - title: github
-    url: https://github.com/bennettoh
+    url: https://github.com/anasselhoud
   - title: linkedin
-    url: https://www.linkedin.com/in/bennett-oh
+    url: https://www.linkedin.com/in/anass-elhoud
 
 # Build settings
 markdown: kramdown
