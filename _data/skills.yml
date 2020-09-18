@@ -5,8 +5,7 @@ languages:
   - item: HTML/CSS
   - item: C
 
-
-Knowledge:
+knowledge:
   - item: Statistics
   - item: Machine Learning
   - item: Deep Learning
@@ -22,7 +21,7 @@ tools:
   - item: Microsoft Azure
   - item: Google Cloud Platform
 
-Frameworks:
+frameworks:
   - item: Scikit-learn
   - item: Pandas/numpy
   - item: Seaborn/matplot
