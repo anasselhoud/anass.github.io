@@ -1,13 +1,13 @@
 # Site settings
-name: Bennett Oh
-title: Bennett Oh | Aspiring Software Developer
+name: Anass El Houd
+title: Anass El Houd | AI Engineer & Data Scientist
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://aelhoud.me
 baseurl: https://aelhoud.me
-email: bennettoh.dev@gmail.com
+email: anass.elhoud@gmail.com
 cover: https://bennettoh.github.io/img/og.png
 logo: https://bennettoh.github.io/img/emojis/technologist.png
-resume: https://bennettoh.github.io/img/Resume 2020 Bennett Oh.pdf
+resume: https://bennettoh.github.io/img/Anass_ELHOUD_CV_Updated_compressed.pdf
 social:
   - title: email
     url: mailto:anass.elhoud@gmail.com
