@@ -1,48 +1,67 @@
-- name: Software Developer
-  url: https://gumroad.com/archihacks
-  code: https://gumroad.com/archihacks
-  description: Owned an architectural plugin development for programs used by professional architects. Utilized functional programming and refactoring patterns in waterfall methodology.
+- name: Machine Learning Intern at CEA Tech
+  url: http://cea.fr/
+  code: http://cea.fr/
+  description: Optimization of RGA data analysis using Machine Learning, Implementation of new spectra processing algorithms and Partitioning of samples by Clustering methods (K-means ...)
   used:
     - thing: Python
-    - thing: Rhino Common API
+    - thing: Machine Learning
+    - thing: Matlab
+    - thing: Clustering
 
-- name: Web3D
-  url: https://bennettoh.github.io/web3d/
-  code: https://bennettoh.github.io/web3d/
-  description: Interactive 3D modeling environment on web browser. It utilizes WebGL with the aid of three.js library. Work in progress.
+- name: Technical Author at Towards Data Science
+  url: https://towardsdatascience.com/@anass.elhoud
+  code: https://towardsdatascience.com/@anass.elhoud
+  description: Democratizing knowledge about AI in general, Machine Learning, Data Science, and related topics in an attempt to provide broader access to educational resources.
   used:
-    - thing: JavaScript
+    - thing: Data Science
+    - thing: Python
     - thing: HTML
-    - thing: CSS
-    - thing: GitHub Pages
-    - thing: three.js Library
+    - thing: GitHub 
 
-- name: Baton Mobile Application
+- name: Data Visualization Collaborator
   url: https://baton-app.bubbleapps.io/
   code: https://baton-app.bubbleapps.io/
-  description: Collaborated in a team of 3 self-taught enthusiasts to develop a functioning prototype for an on-demand service app. My role involved designing a responsive layout that smoothly transitions between various screen sizes. Leveraged Google Adsense to promote the service through sponsored advertisement.
-  used:
-    - thing: Firebase
-    - thing: GitHub
-    - thing: Google Maps API
-    - thing: Google Adsense
+  description: Collaborated in a team of freelancers in building DocBot, an AI Chatbot for Health subjects trained by Deep Learning, GAN and integrated to the main host dedicated for common use. The AI Chatbot can make a "machine consult" about the health of a person.
 
-- name: Robotic Fabrication Workshop
-  url: https://github.com/bennettoh/Robotic-Fabrication-Workshop
-  code: https://github.com/bennettoh/Robotic-Fabrication-Workshop
-  description: The team constructed a free-standing outdoor structure through computational design. Immersed myself in the digital fabrication process which involved parametric design in Rhino + Grasshopper and 5-axis robotic arm equipped with a CNC router.
   used:
     - thing: Python
-    - thing: Grasshopper
-    - thing: Rhinoceros
-    - thing: CNC Milling
+    - thing: Deep Learning
+    - thing: NLP
+    - thing: GitHub
 
-- name: Waterloo Engineering Competition
-  url: https://cawp.sites.olt.ubc.ca/files/2019/08/190724-Advertisement-V2.pdf
-  code: https://cawp.sites.olt.ubc.ca/files/2019/08/190724-Advertisement-V2.pdf
-  description: Produced and presented the competition winning Smart Campus proposal under intensive constraint on budget and time. The proposal detailed clever use of existing infrastructures to quantify and analyze traffic flow on the University of Waterloo Campus. Extrapolated data can have immediate application and enormous future potentials.<br><a class="small" href="http://bennettoh.github.io/WEC">🏆 First Place 🏆</a>
+- name: Optimization Intern at CTK
+  url: http://www.one.org.ma/
+  code: http://www.one.org.ma/
+  description: Study of the optimization of the Fuel-Oil storage system with diagnosis of the current situation and validation of an improvement method.
   used:
-    - thing: Computer vision
-    - thing: Cloud computing
-    - thing: InDesign
+    - thing: Matlab
+    - thing: Genetic Algorithms
+    - thing: Optimization
+
+- name: Team leader at A&M EcoShell
+  url: https://www.shell.fr/energie-innovation/shell-eco-marathon.html
+  code: https://www.shell.fr/energie-innovation/shell-eco-marathon.html
+  description: Team created to participate in the competition (Shell Eco-marathon): Design of a car capable of covering the longest distance with one liter of fuel + Energy optimization and resolution of the problem of high consumption of some elements.
+  used:
+    - thing: Optimization
+    - thing: Renewbale Energies
     - thing: Oral presentation
+    
+    
+ - name: Observation Internship at Proinsur
+  url: https://proinsur.com
+  code: https://proinsur.com
+  description: Team created to participate in the competition (Shell Eco-marathon): Design of a car capable of covering the longest distance with one liter of fuel + Energy optimization and resolution of the problem of high consumption of some elements.
+  used:
+    - thing: Manufacturing
+    - thing: Production chain
+    - thing: Quality control
+    
+- name: Physics Tutor at Slader
+  url: https://www.slader.com/account/#lenspotter
+  code: https://www.slader.com/account/#lenspotter
+  description: Freelance Physics & Maths tutor and Content Creator (High School & Junior College level).
+  used:
+    - thing: Physics
+    - thing: Mathematics
+    - thing: Tutoring
