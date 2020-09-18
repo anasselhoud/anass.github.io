@@ -21,8 +21,7 @@
 - name: Data Visualization Collaborator
   url: https://baton-app.bubbleapps.io/
   code: https://baton-app.bubbleapps.io/
-  description: Collaborated in a team of freelancers in building DocBot, an AI Chatbot for Health subjects trained by Deep Learning, GAN and integrated to the main host dedicated for common use. The AI Chatbot can make a "machine consult" about the health of a person.
-
+  description: Collaborated in a team of freelancers in building DocBot, an AI Chatbot for Health subjects trained by Deep Learning, GAN and integrated to the main host dedicated for common use. The AI Chatbot can make a machine consult about the health of a person.
   used:
     - thing: Python
     - thing: Deep Learning
@@ -32,7 +31,7 @@
 - name: Optimization Intern at CTK
   url: http://www.one.org.ma/
   code: http://www.one.org.ma/
-  description: Study of the optimization of the Fuel-Oil storage system with diagnosis of the current situation and validation of an improvement method.
+  description: Study of the optimization of the Fuel Oil storage system with diagnosis of the current situation and validation of an improvement method.
   used:
     - thing: Matlab
     - thing: Genetic Algorithms
@@ -51,16 +50,16 @@
  - name: Observation Internship at Proinsur
   url: https://proinsur.com
   code: https://proinsur.com
-  description: Team created to participate in the competition (Shell Eco-marathon): Design of a car capable of covering the longest distance with one liter of fuel + Energy optimization and resolution of the problem of high consumption of some elements.
+  description: Team created to participate in the competition (Shell Eco-marathon). Design of a car capable of covering the longest distance with one liter of fuel + Energy optimization and resolution of the problem of high consumption of some elements.
   used:
     - thing: Manufacturing
     - thing: Production chain
     - thing: Quality control
     
 - name: Physics Tutor at Slader
-  url: https://www.slader.com/account/#lenspotter
-  code: https://www.slader.com/account/#lenspotter
-  description: Freelance Physics & Maths tutor and Content Creator (High School & Junior College level).
+  url: https://www.slader.com/account/lenspotter
+  code: https://www.slader.com/account/lenspotter
+  description: Freelance Physics and Maths tutor and Content Creator (High School and Junior College level).
   used:
     - thing: Physics
     - thing: Mathematics
