@@ -27,6 +27,6 @@ frameworks:
   - item: Seaborn/Matplot
   - item: Scipy
   - item: Tensorflow (Keras)
-  - item: Pytorch/ OpenCV
+  - item: Pytorch/OpenCV
   
   
