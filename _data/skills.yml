@@ -23,10 +23,10 @@ tools:
 
 frameworks:
   - item: Scikit-learn
-  - item: Pandas/numpy
-  - item: Seaborn/matplot
+  - item: Pandas/Numpy
+  - item: Seaborn/Matplot
   - item: Scipy
   - item: Tensorflow (Keras)
-  - item: Pytorch
+  - item: Pytorch/ OpenCV
   
   
