@@ -35,6 +35,9 @@ keep_files:
   - 'CNAME'
   - '.git'
   - '.gitignore'
+  
+# Google services
+google_analytics: UA-43673905-4
 
 plugins_dir:
   - jekyll-minifier
