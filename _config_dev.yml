@@ -1,23 +1,22 @@
-# Site settings
-name: Bennett Oh
-title: Bennett Oh | Aspiring Software Developer
-description: Design-minded software developer focused on building beautiful interfaces and experiences
-url: https://bennettoh.github.io/
-baseurl: https://bennettoh.github.io/
-email: bennettoh.dev@gmail.com
-cover: https://bennettoh.github.io/img/og.png
-logo: https://bennettoh.github.io/img/emojis/technologist.png
-resume: https://bennettoh.github.io/img/Resume 2020 Bennett Oh.pdf
+name: Anass El Houd
+title: Anass El Houd | AI Engineer & Data Scientist
+description: Artificial Intelligencce (ML/DL) Enginner and Data Scientist
+url: https://aelhoud.me
+baseurl: https://aelhoud.me
+email: anass.elhoud@gmail.com
+cover: https://aelhoud.me/img/og.png
+logo: https://aelhoud.me/img/emojis/technologist.png
+resume: https://aelhoud.me/img/Anass_ELHOUD_CV_Updated_compressed.pdf
 social:
-  - title: email
-    url: mailto:bennettoh.dev@gmail.com
+   - title: email
+    url: mailto:anass.elhoud@gmail.com
   - title: instagram
-    url: https://instagram.com/bennett.oh
+    url: https://instagram.com/anasselhoud
   - title: github
-    url: https://github.com/bennettoh
+    url: https://github.com/anasselhoud
   - title: linkedin
-    url: https://www.linkedin.com/in/bennett-oh
-
+    url: https://www.linkedin.com/in/anass-elhoud
+    
 # Build settings
 markdown: kramdown
 
