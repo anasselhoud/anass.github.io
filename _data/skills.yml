@@ -26,6 +26,7 @@ frameworks:
   - item: Pandas/Numpy
   - item: Seaborn/Matplot
   - item: Scipy
+  - item: Nltk/Spacy
   - item: Tensorflow (Keras)
   - item: Pytorch/OpenCV
   
