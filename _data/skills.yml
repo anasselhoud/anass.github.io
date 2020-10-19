@@ -15,8 +15,9 @@ knowledge:
   
 tools:
   - item: Git & Github
-  - item: Visual Studio Code
   - item: Jupyter Notebook
+  - item: Docker
+  - item: Hadoop/Spark
   - item: Google Colab
   - item: Microsoft Azure
   - item: Google Cloud Platform
