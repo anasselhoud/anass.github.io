@@ -12,6 +12,7 @@ knowledge:
   - item: Predictive Analysis
   - item: Data Visualization
   - item: Database (MySQL, Oracle)
+  - item: Big Data (Hadoop, SparQL)
   
 tools:
   - item: Git & Github
