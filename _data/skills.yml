@@ -2,8 +2,10 @@ languages:
   - item: Algorithmics
   - item: Python
   - item: Matlab
+  - item: C/C++
+  - item: Javascript (D3.js)
   - item: HTML/CSS
-  - item: C
+  
 
 knowledge:
   - item: Statistics
@@ -31,5 +33,6 @@ frameworks:
   - item: Nltk/Spacy
   - item: Tensorflow (Keras)
   - item: Pytorch/OpenCV
+  - item: D3.js
   
   
