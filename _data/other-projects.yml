@@ -1,3 +1,13 @@
+- name: Machine Learning Intern at LIRIS
+  url: http://cea.fr/
+  code: http://cea.fr/
+  description: Optimization of RGA data analysis using Machine Learning, Implementation of new spectra processing algorithms and Partitioning of samples by Clustering methods (K-means ...)
+  used:
+    - thing: Python
+    - thing: Machine Learning
+    - thing: Matlab
+    - thing: Clustering
+
 - name: Machine Learning Intern at CEA Tech
   url: http://cea.fr/
   code: http://cea.fr/
