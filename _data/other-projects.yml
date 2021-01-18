@@ -1,12 +1,12 @@
-- name: Machine Learning Intern at LIRIS
-  url: http://cea.fr/
-  code: http://cea.fr/
-  description: Optimization of RGA data analysis using Machine Learning, Implementation of new spectra processing algorithms and Partitioning of samples by Clustering methods (K-means ...)
+- name: AI Project Member at LIRIS
+  url: https://liris.cnrs.fr/
+  code: https://liris.cnrs.fr/
+  description: An academic sub-project which is part of the global NEPTUNE research project of LIRIS in partnership with the French Swimming Federation which aims to automate the extraction of swimmer statistics in international competitions from videos. Data-Driven Preparation for the Olympic Games 2024.
   used:
-    - thing: Python
-    - thing: Machine Learning
-    - thing: Matlab
-    - thing: Clustering
+    - thing: Deep Learning
+    - thing: Computer Vision
+    - thing: Video Analysis
+    - thing: YOLO
 
 - name: Machine Learning Intern at CEA Tech
   url: http://cea.fr/
