@@ -1,3 +1,13 @@
+- name: Project Member at LIRIS | RESPI-NATATION: AI for Video Analytics
+  url: https://liris.cnrs.fr/
+  code: https://liris.cnrs.fr/
+  description: Member of an academic sub-project which is part of the global NEPTUNE research project of LIRIS in partnership with the French Swimming Federation which aims to automate the extraction of swimmer statistics in international competitions from videos. Data-Driven Preparation for the Olympic Games 2024.
+  used:
+    - thing: Deep Learning
+    - thing: Computer Vision
+    - thing: Video Analysis
+    - thing: YOLO
+    
 - name: Machine Learning Intern at CEA Tech
   url: http://cea.fr/
   code: http://cea.fr/
