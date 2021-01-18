@@ -69,3 +69,11 @@
     - thing: Production chain
     - thing: Quality control
     
+- name: Physics Tutor at Slader
+  url: https://www.slader.com/account/lenspotter
+  code: https://www.slader.com/account/lenspotter
+  description: Freelance Physics and Maths tutor and Content Creator (High School and Junior College level).
+  used:
+    - thing: Physics
+    - thing: Mathematics
+    - thing: Tutoring
