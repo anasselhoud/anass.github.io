@@ -1,3 +1,13 @@
+- name: AI Engineer at Faurecia
+  url: https://liris.cnrs.fr/
+  code: https://liris.cnrs.fr/
+  description: My missions include implementing deep learning and computer vision solutions in the automotive industry.
+  used:
+    - thing: Deep Learning
+    - thing: Computer Vision
+    - thing: Video Analysis
+    - thing:  One Class Learning
+    
 - name: AI Project Member at LIRIS
   url: https://liris.cnrs.fr/
   code: https://liris.cnrs.fr/
